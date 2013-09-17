@@ -8,7 +8,7 @@ next field (on page) every time the user presses enter.
 Read more: http://alfrescodev.com/vaadin-enter-instead-tab
 
 To compile, execute commands:
-1: In project enter-bluring-field:
+1. In project enter-bluring-field:
 
 mvn clean package
 
@@ -16,7 +16,7 @@ mvn clean package
 
 mvn clean install
 
-3: In project enter-bluring-field-show:
+3. In project enter-bluring-field-show:
 
 mvn package
 mvn jetty:run
