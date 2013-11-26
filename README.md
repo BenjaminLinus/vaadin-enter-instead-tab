@@ -19,5 +19,5 @@ mvn clean install
 
 3: In project enter-bluring-field-show:
 
-mvn package
+mvn clean package
 mvn jetty:run
